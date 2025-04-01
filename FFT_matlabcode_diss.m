@@ -1,6 +1,6 @@
-%% This software can be used to import data from spreadsheet, fft and 1-3oct analysis
-% For  piezoelectric pads used in and around engine room
-% for vibrational information and potential use for renewable energy.
+%% This software can be used to import data from spreadsheet to create fft.
+% For data from piezoelectric pads used in and around engine room
+in order to procure vibrational information and potential use for renewable energy.
 
 %% Set up the Import Options and import the data
 % Use excel format to import data
